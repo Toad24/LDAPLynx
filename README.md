@@ -1,7 +1,7 @@
 # LDAPLynx
 LDAPLynx is a tool used to explore LDIFs for Red Teamers.
 
-![LDAPLynx Logo](https://toad24.github.io/ldaplynx/raw/main/assets/logo.png)
+![LDAPLynx Logo](https://github.com/Toad24/LDAPLynx/raw/main/assets/logo.png)
 
 ## Features
 - Load and parse LDIF files.
@@ -33,4 +33,4 @@ python ldaplynx.py
 
 This tool is intended to allow an operator to export an OpenLDAP database as an LDIF, create node/edge relationships from that LDIF, and then view those relationships in Gephi.
 
-![LDAPLynx Use](https://toad24.github.io/ldaplynx/raw/main/assets/use.png)
+![LDAPLynx Logo](https://github.com/Toad24/LDAPLynx/raw/main/assets/use.png)

@@ -33,4 +33,7 @@ python ldaplynx.py
 
 This tool is intended to allow an operator to export an OpenLDAP database as an LDIF, create node/edge relationships from that LDIF, and then view those relationships in Gephi.
 
-![LDAPLynx Logo](https://github.com/Toad24/LDAPLynx/raw/main/assets/use.png)
+![LDAPLynx Console](https://github.com/Toad24/LDAPLynx/raw/main/assets/use.png)
+
+
+![Gephi Use](https://github.com/Toad24/LDAPLynx/raw/main/assets/gephi.png)
